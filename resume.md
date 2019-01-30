@@ -30,7 +30,7 @@ Shell scripting, AppleScript, Processing P5.js, JavaScript, Ruby
 July ’06 – Current  
 **Director of Technology**
 
-Tech Director at a progressive preK-12 independent school located in Greenwich Village, for all 3 of the schools sites. Responsibilities include designing, planning, implementing, and maintaining the schools tech infrastructure in support of the schools mission and operational needs, working with the acadmic divisional tech integrators, managing the tech support staff, and reporting to the executive team (school leadership).
+Tech Director at a progressive preK-12 independent school located in Greenwich Village, for all three of the school's sites. Responsibilities include designing, planning, implementing, and maintaining the schools tech infrastructure in support of the schools mission and operational needs, working with the acadmic divisional tech integrators, managing the tech support staff, and reporting to the executive team (school leadership).
 
 **HS Computer Science Instructor**  
 Teaching and designing curriculum for Computer Science classes in our High School. This includes teaching classes in web design, coding, creative computing, tinkering with the IoT (Internet of Things), Command-Line and shells, as well as setting up servers and managing network services such as DNS, VPN, SSH, Web Proxies, and Network Security basics. Also assisting students with Independent Study and Honors projects.
