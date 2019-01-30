@@ -1,10 +1,9 @@
-# Jacob Farkas
+## Jacob Farkas 
+LREI - Director of Technology
 
-#### OBJECTIVE
+---
 
-To work in the IT industry advising and providing satisfactory IT solutions for businesses and organizations
-
-#### SKILLS
+### SKILLS
 
 - Adapting, planning ahead, maintaining existing systems, working with innovative solutions and ideas while facing constant change in technology. 
 - Team and Project Management.
@@ -24,16 +23,16 @@ AWS, Google Cloud Platform, DigitalOcean
 **Languages and Scripting**  
 Shell scripting, AppleScript, Processing P5.js, JavaScript, Ruby
 
-#### WORK EXPERIENCE
+### WORK EXPERIENCE
 --- 
 
-##### LREI - Little Red School House and Elisabeth Irwin High School, New York, NY				
-July ’06 – Current
+#### LREI - Little Red School House and Elisabeth Irwin High School, New York, NY				
+July ’06 – Current  
 **Director of Technology**
 
 --- 
-##### Convent of the Sacred Heart, New York, NY				
-July ’04 – September ‘05
+#### Convent of the Sacred Heart, New York, NY				
+July ’04 – September ‘05  
 **Associate Tech Director, Systems Administrator**
 
 ---
@@ -65,8 +64,8 @@ Specific Projects:
 
 ---
 
-##### Milo Kleinberg Design Associates, New York, NY
-November ‘03 – April ‘04
+#### Milo Kleinberg Design Associates, New York, NY  
+November ‘03 – April ‘04  
 **IT Consultant**
 
 ---
@@ -89,9 +88,9 @@ End User Support:
 
 ---
 
-##### IBEX Construction, New York, NY					
-January ‘02 – November ‘03
-September '05 - July '06
+#### IBEX Construction, New York, NY					
+January ‘02 – November ‘03  
+September '05 - July '06  
 **IT Director**
 
 ---
@@ -119,8 +118,8 @@ Assisting the company’s marketing department with preparation of proposals, bi
 
 ---
 
-##### Electronic Management Systems, New York, NY				
-December ‘99 – January ‘02
+#### Electronic Management Systems, New York, NY				
+December ‘99 – January ‘02  
 **IT Consultant**
 
 ---
@@ -146,8 +145,8 @@ Special Projects:
 
 ---
 
-##### Global Business Institute, New York, NY 					
-April ’99 – December ‘99
+#### Global Business Institute, New York, NY 					
+April ’99 – December ‘99  
 **Director, MIS**
 
 ---
@@ -163,8 +162,8 @@ Special Projects:
 
 ---
 
-##### JD Consulting, Brooklyn, NY 						
-June ‘97 – April ‘99
+#### JD Consulting, Brooklyn, NY 						
+June ‘97 – April ‘99  
 **Hardware Technician**
 						 	
 - PC assembly, repairs, troubleshooting, custom configurations for servers and workstations.
@@ -172,18 +171,18 @@ June ‘97 – April ‘99
 
 ---
 
-#### EDUCATION 
+### EDUCATION 
 --- 
 
 Mesivta Rabbi Chaim Berlin, Brooklyn, NY 				
-1995 – 1998
+1995 – 1998  
 **Bachelors of Talmudic Law**
 
 
-#### OTHER INVOLVEMENTS
+### OTHER INVOLVEMENTS
 --- 
 
-**NYCwireless**
+**NYCwireless**  
 Board of Directors
  
 - Board member and co-founder of NYCwireless, a non-profit organization that educates, promotes, and helps provide free wireless public Internet access in NYC.
