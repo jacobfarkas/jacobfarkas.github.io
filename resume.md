@@ -4,18 +4,23 @@
 
 To work in the IT industry advising and providing satisfactory IT solutions for businesses and organizations
 
-#### TECHNICAL SKILLS
+#### SKILLS
 
-Networking:  TCP/IP. • DNS • DHCP • LAN • WAN • 802.11b (Wi-Fi) • Routers • Cisco [as well as HP] managed Switches • Firewalls • VPN • Antivirus Servers • SpamAssassin and other anti-spam servers • Web Servers 
+- Adapting, planning ahead, maintaining existing systems, working with innovative solutions and ideas while facing constant change in technology. 
+- Team and Project Management.
+- Experienced Computer Science Instructer and Curriculum Developer.
+- Excellent troubleshooter and creative problem solver. 
+- Calm during crises. Patient with people experiencing technical difficulties.
 
-Operating Systems:  MS-DOS • Windows 95/98 • Windows NT 4.0 Workstation • Windows NT 4.0 Server • 
-Windows 2000 Professional • Windows 2000 Server • Windows 2003 Server • Windows XP • Mac OS 8.x/9.x • OS X • OS X Server • Linux • FreeBSD.
+**Operating Systems**  
+Mac OS X, Windows, Linux, FreeBSD
 
-Remote Access: VPN • MS Terminal Services • Citrix Metaframe • PC Anywhere • VNC  • SSH
+**Networking**  
+TCP/IP, DNS, DHCP, LAN, WAN, Wi-Fi, Routers, Managed Switches, Firewalls, VPN, Web Servers, SSH
 
-Mail Systems: Sendmail • Exim • Postfix • MS Exchange 5.5/2000/2003 • Lotus Domino 4.x/5.x • Communigate Pro • First Class.
+**Cloud Computing** AWS, Google Cloud Platform, DigitalOcean
 
-Databases/Scripting: MySQL• MS Sql • PostgresSQL • PHP 
+**Scripting** MySQL• MS Sql • PostgresSQL • PHP 
 
 Productivity Software:  MS Office 95/2000/2003  • MS Project • Lotus Notes
 Macromedia Dreamweaver • Macromedia Flash •Adobe Photoshop • Adobe Illustrator • Adobe InDesign
