@@ -1,6 +1,10 @@
-## Lesson Plan - x-block p5.js
-**1-16-2019**
-Creating Dice in p5js
+## Lesson Plan - Creating Dice in p5js
+--- 
+
+### Overview
+
+In this unit, students learn to make their sketches respond to actions taken by the user, from moving the pointer to clicking or touching it over a certain area, to typing on the keyboard. The if statement is introduced. The map function is used to convert inputs into useful ranges. For the final project, students create an expressive drawing tool.
+
 
 Student led a live-coding session and did the following:
 
